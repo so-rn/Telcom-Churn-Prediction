@@ -1,9 +1,9 @@
 {
-  "business_cost": 56100.0,
-  "revenue_saved": 96950.0,
-  "retention_spend": 63300.0,
-  "net_savings": 33650.0,
-  "roi_percent": 53.15955766192732,
+  "business_cost": 65900.0,
+  "revenue_saved": 104300.0,
+  "retention_spend": 57700.0,
+  "net_savings": 46600.0,
+  "roi_percent": 80.76256499133449,
   "assumptions": {
     "cost_fn": 500,
     "cost_fp": 100,
